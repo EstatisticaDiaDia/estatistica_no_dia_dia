@@ -22,7 +22,7 @@ Os materiais serão incorporados ao repositório conforme os scripts e as análi
 
 ### População
 
-1. 1. [Varginha está envelhecendo?](temas/01-envelhecimento-populacional/README.md)
+1. [Varginha está envelhecendo?](temas/01-envelhecimento-populacional/README.md)
 2. Varginha tem mais mulheres ou homens?
 3. Varginha cresceu mais que as cidades vizinhas?
 
